@@ -16,19 +16,20 @@ This project is an implementation of the Caesar Cipher, a simple and classic enc
 * **Non-Alphabetic Character Handling**: Ignores numbers, spaces, and punctuation, leaving them unchanged.
 
 ### How to Run the Program
-1.  **Clone the repository**:You can find the repository here: [Prodigy Infotech on GitHub](https://github.com/cyber-agentberry/Prodigy_InfoTech).
+1.  **Clone the repository**:You can find the repository here: [Prodigy Infotech on GitHub](https://github.com/cyber-agentberry/Prodigy_InfoTech/blob/b5e3b45841851aea6d895fdf84346a746677365f/PRODIGY_CS_01/caesar.py).
+   To clone it to your local machine, run the following command in your terminal:
     ```bash
     git clone [https://github.com/cyber-agentberry/Prodigy_InfoTech.git](https://github.com/cyber-agentberry/Prodigy_InfoTech.git)
     ```
-2.  **Navigate to the project directory**:
+3.  **Navigate to the project directory**:
     ```bash
     cd Prodigy_InfoTech/PRODIGY_CS_01
     ```
-3.  **Run the Python script**:
+4.  **Run the Python script**:
     ```bash
     python caesar.py
     ```
-4.  **Follow the on-screen prompts** to enter your message and the shift value for encryption or decryption.
+5.  **Follow the on-screen prompts** to enter your message and the shift value for encryption or decryption.
 
 ### Code Structure
 The program is structured with clear, modular functions:
