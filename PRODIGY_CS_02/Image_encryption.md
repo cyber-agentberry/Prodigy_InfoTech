@@ -4,6 +4,8 @@
 
 This project is a tool that encrypts and decrypts images using a simple bitwise XOR cipher. It manipulates the pixel values of an image with a secret integer key. The same key is used for both encryption and decryption, allowing the original image to be fully restored. The project utilizes the Pillow and NumPy libraries for efficient image and pixel manipulation.
 
+## code:[Image_encryption.py](https://github.com/cyber-agentberry/Prodigy_InfoTech/blob/a186319804f6fe355a95329d3b9b38ff8983789d/PRODIGY_CS_02/Image_encryption.py)
+
 ## How to Run
 
 - Make sure you have Pillow and NumPy installed: pip install Pillow numpy.
